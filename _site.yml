@@ -3,11 +3,11 @@ output_dir: "."
 navbar:
   title: "Michael Yeomans"
   left:
+#    - text: "Programming"
+#      href: software.html
+  right:
     - text: "Research"
       href: research.html
-    - text: "Programming"
-      href: software.html
-  right:
     - text: "CV"
       href: http://mikeyeomans.info/yeomansCV.pdf
     - text: "OSF"

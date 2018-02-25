@@ -1,11 +1,8 @@
 ---
 ---
-  
-<link rel="stylesheet" href="styles.css" type="text/css">
     
 <img src="images/mikeface.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
       
- 
 
 I am currently a post-doctoral fellow at the Massachussetts Institute of Technology and Harvard University. I completed my undergraduate degree in Psychology at the University of Toronto and in 2014, I completed a PhD and an MBA in Behavioral Science at the University of Chicago Booth School of Business. 
 
