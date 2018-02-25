@@ -2,9 +2,6 @@ name: "Michael Yeomans"
 output_dir: "."
 navbar:
   title: "Michael Yeomans"
-  left:
-#    - text: "Programming"
-#      href: software.html
   right:
     - text: "Research"
       href: research.html
@@ -12,6 +9,8 @@ navbar:
       href: http://mikeyeomans.info/yeomansCV.pdf
     - text: "OSF"
       href: https://osf.io/gy9fe/
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com/citations?user=8ewTeWUAAAAJ
     - icon: fa-github fa-lg
       href: http://github.com/myeomans
     - icon: fa-twitter fa-lg
