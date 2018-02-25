@@ -17,7 +17,7 @@ Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2017). [Communicating Warmth in D
 
 Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, in press.
 
-Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](http://www.mikeyeomans.info/politeness)
+Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https://cran.r-project.org/package=politeness)
 
 ***
 
