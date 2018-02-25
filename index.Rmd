@@ -3,10 +3,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/mikeface.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/mikeface.jpg" style="width:20%; border:10px solid; margin-right: 0px; margin-left: 50px" align="right">
       
-      
-***
 
 In my research, I develop and explore applications for machine learning in behavioral science. In particular, I primarily focus on cases where we know human judgment is biased or incomplete. Many of these examples are “interpersonal prediction problems” - domains where we must understand other people’s preferences and intentions to pursue our own social goals. Often we find that our perspective-taking capacity can be limited or biased. But these are examples where machine learning can help to understand and improve on the choices that people make when they navigate complex social interactions.
 
