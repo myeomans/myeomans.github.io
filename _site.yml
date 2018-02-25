@@ -1,0 +1,24 @@
+name: "Mike Yeomans"
+output_dir: "."
+navbar:
+  title: "Mike Yeomans"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/myeomans
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/emyeom
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
