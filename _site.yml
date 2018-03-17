@@ -6,7 +6,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: http://mikeyeomans.info/yeomansCV.pdf
+      href: http://www.mikeyeomans.info/papers/yeomansCV.pdf
     - text: "OSF"
       href: https://osf.io/gy9fe/
     - icon: fa-google fa-lg
