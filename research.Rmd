@@ -23,7 +23,7 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https
 
 ## Recommender System Psychology
 
-Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Working Paper.
+Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Under Review.
 
 Yeomans, M. [Some Hedonic Consequences of Self-Expression in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Accepted to Journal of Consumer Psychology.
 
