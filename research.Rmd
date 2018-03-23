@@ -21,16 +21,17 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https
 
 ***
 
-## Recommender System Psychology
+## Psychology of Recommender Systems
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Under Review.
 
 Yeomans, M. [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Journal of Consumer Psychology, in press.
 
+Yeomans, M. [What Every Manager Should Know About Machine Learning](https://hbr.org/2015/07/what-every-manager-should-know-about-machine-learning]).Harvard Business Review.
 
 ***
 
-## Natural Language of Goal Pursuit
+## Natural Language Plan-Making in Goal Pursuit
 
 Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education.](http://www.mikeyeomans.info/papers/planning.pdf) Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
@@ -40,7 +41,7 @@ Frisancho, V., Karlan, D., Mullainathan, S., Valdivia, M.  & Yeomans, M. [Condit
 
 ***
 
-## Field Studies in Pro-Social Behavior
+## Field Experiments in Pro-Social Behaviour
 
 Yeomans, M. & Herberich, D. (2014). [An experimental test of the effect of negative social norms on energy-efficient investments.](http://www.mikeyeomans.info/papers/Tire_Pressure_Neglect.pdf). Journal of Economic Behavior & Organization, 108, 187-197.
 
@@ -49,8 +50,3 @@ Al-Ubaydli, O. & Yeomans, M. (2016) [Do people donate more when they perceive a 
 Yeomans, M.  & Al-Ubaydli, O. (2018) [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
 
 ***
-
-## Other Writing
-
-Yeomans, M. [What Every Manager Should Know About Machine Learning](https://hbr.org/2015/07/what-every-manager-should-know-about-machine-learning]).Harvard Business Review.
-
