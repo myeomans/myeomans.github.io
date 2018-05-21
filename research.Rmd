@@ -15,7 +15,7 @@ Yeomans, M. & Brooks, A.W. (2018) [What the heck are we talking about? Topic sel
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
-Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2017). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive.](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Conditionally Accepted at Management Science.
+Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2017). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive.](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Second Invited Revisions at Management Science.
 
 Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, in press.
 
@@ -25,7 +25,7 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https
 
 ## Psychology of Recommender Systems
 
-Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Under Review.
+Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Invited Revision at Journal of Behavioral Decision Making.
 
 Yeomans, M. [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Journal of Consumer Psychology, in press.
 
@@ -36,7 +36,6 @@ Yeomans, M. [What Every Manager Should Know About Machine Learning](https://hbr.
 ## Natural Language Plan-Making in Goal Pursuit
 
 Yeomans, M., Kizilcec, R., Tingley, D., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Reich, J. (2018). [Early Interventions in Online Education.](http://www.mikeyeomans.info/papers/earlyinterventions.pdf) Working paper.
-
 
 Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education.](http://www.mikeyeomans.info/papers/planning.pdf) Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
