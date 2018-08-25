@@ -6,8 +6,9 @@
 <img src="images/mikeface.jpg" style="width:20%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
       
 
-In my research, I develop and explore applications for machine learning in behavioral science. In particular, I primarily focus on cases where we know human judgment is biased or incomplete. Many of these examples are “interpersonal prediction problems” - domains where we must understand other people’s preferences and intentions and navigate complex social interactions. Often we find that our perspective-taking capacity can be limited or biased. But in these cases, machine learning can help to understand and improve on the choices that people make.
+In my research, I apply machine learning to problems in behavioral science, focusing on cases where we know human judgment is biased or incomplete. This is common in many facets of social interactions - friendly conversations, negotiations, meetings, and so on. When we try to understand other people's preferences and intentions, we often find that our perspective-taking capacity has room for improvement. In these cases, natural language processing can help us understand and improve the decisions people make when we talk to each other.
 
-Currently, I am pursuing this research as a post-doctoral fellow at Massachussetts Institute of Technology and Harvard University. I completed my undergraduate degree in Psychology at the University of Toronto and in 2014, I completed a PhD and an MBA in Behavioral Science at the University of Chicago Booth School of Business. 
+Currently, I am pursuing this research as a post-doctoral fellow at Harvard University. I completed my undergraduate degree in Psychology at the University of Toronto and in 2014, I completed a PhD and an MBA in Behavioral Science at the University of Chicago Booth School of Business.
+
 
 ***
