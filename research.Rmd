@@ -15,11 +15,11 @@ Yeomans, M. & Brooks, A.W. (2018) [What the heck are we talking about? Topic sel
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
-Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2017). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive.](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Second Invited Revisions at Management Science.
+Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2017). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive.](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Accepted to Management Science.
 
-Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, in press.
+Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, in press.
 
-Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https://cran.r-project.org/package=politeness)
+Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https://cran.r-project.org/package=politeness). Conditionally Accepted to R Journal.
 
 ***
 
@@ -27,9 +27,9 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2017). [Politeness: an R Package.](https
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Invited Revision at Journal of Behavioral Decision Making.
 
-Yeomans, M. [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Journal of Consumer Psychology, in press.
+Yeomans, M. (2018). [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Journal of Consumer Psychology, in press.
 
-Yeomans, M. [What Every Manager Should Know About Machine Learning](https://hbr.org/2015/07/what-every-manager-should-know-about-machine-learning]).Harvard Business Review.
+Yeomans, M. (2015) [What Every Manager Should Know About Machine Learning](https://hbr.org/2015/07/what-every-manager-should-know-about-machine-learning]). Harvard Business Review.
 
 ***
 
