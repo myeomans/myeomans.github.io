@@ -17,6 +17,7 @@ navbar:
       href: http://github.com/myeomans
     - icon: fa-twitter fa-lg
       href: https://twitter.com/emyeom
+    - image: 
 output:
   html_document:
     theme: paper

@@ -4,9 +4,10 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="images/mikeface.jpg" style="width:30%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
-      
-<h4>Hello, and welcome!</h4>
-
-I am currently a post-doctoral fellow at Harvard Business School, studying computational social psychology. In my research I apply machine learning in cases where we know human judgment is biased or incomplete. This is true of many social interactions - negotiations, recommendations, first impressions, meetings, even friendly conversations. When we try to understand other people, we often find that our perspective-taking capacity has room for improvement. In these cases, natural language processing can help us understand and improve the decisions we make when we communicate.
-
+<br/>
+<h4 style="margin-left: 40px">Hello, and welcome!</h4>
+<br/>
+<div style="margin-left: 10px">
+I am currently a post-doctoral fellow at Harvard Business School, studying computational social psychology. In my research I apply machine learning in cases where we know human judgment is biased or incomplete. This is true of many social interactions - negotiations, recommendations, first impressions, meetings, even friendly conversations. When we try to understand other people, we often find that our perspective-taking capacity is limited. In these cases, natural language processing can help us understand and improve the decisions we make when we communicate.
+</div>
 ***
