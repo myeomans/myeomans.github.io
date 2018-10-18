@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/mikeface.jpg" style="width:30%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
+<img src="images/mikeface.JPG" style="width:30%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
 <br/>
 <h4 style="margin-left: 40px">Hello, and welcome!</h4>
 <br/>
