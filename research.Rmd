@@ -11,23 +11,25 @@ output:
 
 ## Decision-Making in Conversations
 
-Yeomans, M. & Brooks, A.W. (2018) [What the heck are we talking about? Topic selection in conversation](http://www.mikeyeomans.info/papers/topic_selection.pdf). Working paper. 
+Yeomans, M. & Brooks, A.W. (2019) [What the heck are we talking about? Topic selection in conversation](http://www.mikeyeomans.info/papers/topic_selection.pdf). Working paper. 
+
+Yeomans, M., Huang, K., Brooks, A.W., Minson, J. & Gino, F. (2019). It helps to ask: The cumulative benefits of asking follow-up questions. Journal of Personality and Social Psychology, under review.
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2018). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive.](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, in press.
 
-Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, in press.
+Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses.](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf) International Journal of Artificial Intelligence in Education, 28(4), 553-589.
 
-Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Politeness: an R Package.](https://cran.r-project.org/package=politeness). R Journal, in press.
+Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Politeness: an R Package.](https://cran.r-project.org/package=politeness). The R Journal.
 
 ***
 
 ## Psychology of Recommender Systems
 
-Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations.](http://www.mikeyeomans.info/papers/Making_Sense.pdf) Invited Revision at Journal of Behavioral Decision Making.
+Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, in press.
 
-Yeomans, M. (2018). [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf) Journal of Consumer Psychology, in press.
+Yeomans, M. (2019). [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf). Journal of Consumer Psychology, 29(1), 22-38.
 
 Yeomans, M. (2015) [What Every Manager Should Know About Machine Learning](https://hbr.org/2015/07/what-every-manager-should-know-about-machine-learning]). Harvard Business Review.
 
@@ -35,21 +37,21 @@ Yeomans, M. (2015) [What Every Manager Should Know About Machine Learning](https
 
 ## Natural Language Plan-Making in Goal Pursuit
 
-Yeomans, M., Kizilcec, R., Tingley, D., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Reich, J. (2018). [Early Interventions in Online Education.](http://www.mikeyeomans.info/papers/earlyinterventions.pdf) Working paper.
+Yeomans, M., Kizilcec, R., Tingley, D., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Reich, J. (2018). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Working paper.
 
-Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education.](http://www.mikeyeomans.info/papers/planning.pdf) Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
+Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education](http://www.mikeyeomans.info/papers/planning.pdf). Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
-Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016) [Forecasting Student Achievement in MOOCs with Natural Language Processing.](http://www.mikeyeomans.info/papers/utility_value.pdf) Proceedings of the Sixth International Conference on Learning Analytics  & Knowledge, 383-387. ACM.
+Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016) [Forecasting Student Achievement in MOOCs with Natural Language Processing](http://www.mikeyeomans.info/papers/utility_value.pdf). Proceedings of the Sixth International Conference on Learning Analytics  & Knowledge, 383-387. ACM.
 
-Frisancho, V., Karlan, D., Mullainathan, S., Valdivia, M.  & Yeomans, M. [Conditional Cash Transfers and Commitment Savings Accounts in the Dominican Republic.](http://www.poverty-action.org/study/conditional-cash-transfers-and-commitment-savings-accounts-dominican-republic) In Progress.
+Frisancho, V., Karlan, D., Mullainathan, S., Valdivia, M.  & Yeomans, M. [Conditional Cash Transfers and Commitment Savings Accounts in the Dominican Republic](http://www.poverty-action.org/study/conditional-cash-transfers-and-commitment-savings-accounts-dominican-republic). In Progress.
 
 ***
 
 ## Field Experiments in Pro-Social Behaviour
 
-Yeomans, M. & Herberich, D. (2014). [An experimental test of the effect of negative social norms on energy-efficient investments.](http://www.mikeyeomans.info/papers/Tire_Pressure_Neglect.pdf). Journal of Economic Behavior & Organization, 108, 187-197.
+Yeomans, M. & Herberich, D. (2014). [An experimental test of the effect of negative social norms on energy-efficient investments](http://www.mikeyeomans.info/papers/Tire_Pressure_Neglect.pdf). Journal of Economic Behavior & Organization, 108, 187-197.
 
-Al-Ubaydli, O. & Yeomans, M. (2016) [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect.](http://www.mikeyeomans.info/papers/Identifiability_Effect.pdf). Journal of Behavioral and Experimental Economics, 66, 96-103.
+Al-Ubaydli, O. & Yeomans, M. (2016) [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](http://www.mikeyeomans.info/papers/Identifiability_Effect.pdf). Journal of Behavioral and Experimental Economics, 66, 96-103.
 
 Yeomans, M.  & Al-Ubaydli, O. (2018) [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
 
