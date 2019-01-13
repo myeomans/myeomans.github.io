@@ -8,6 +8,8 @@
 <h4 style="margin-left: 40px">Hello, and welcome!</h4>
 <br/>
 <div style="margin-left: 10px">
-I am currently a post-doctoral fellow at Harvard Business School, studying computational social psychology. In my research I apply machine learning in cases where human judgment is biased or incomplete. This is true of many social interactions - negotiations, recommendations, first impressions, meetings, even friendly conversations. I find that when our perspective-taking capacity is limited, natural language processing can help us understand and improve the decisions we make when we communicate.
+
+I am currently a post-doctoral fellow at Harvard Business School, studying computational social psychology. I (mostly) focus my research on situations where machine learning and natural language processing can improve how people communicate with one another.
+
 </div>
 ***
