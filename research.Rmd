@@ -9,17 +9,15 @@ output:
 
 ***
 
-## Decision-Making in Conversations
+## Decision-Making in Conversation
 
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, in press.
 
 Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf). International Journal of Artificial Intelligence in Education, 28(4), 553-589.
 
-Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural Language](http://www.mikeyeomans.info/papers/Rpoliteness.pdf). The R Journal. [R Package](https://cran.r-project.org/package=politeness)
+Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural Language](http://www.mikeyeomans.info/papers/Rpoliteness.pdf). The R Journal, 10(2), 489-502. [R Package](https://cran.r-project.org/package=politeness)
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
-
-Yeomans, M. & Brooks, A.W. (2019) [What the heck are we talking about? Topic selection in conversation](http://www.mikeyeomans.info/papers/topic_selection.pdf). Working paper. 
 
 ***
 
@@ -33,13 +31,11 @@ Yeomans, M. (2019). [Some Hedonic Consequences of Perspective-Taking in Word of 
 
 ## Natural Language Plan-Making in Goal Pursuit
 
-Yeomans, M., Kizilcec, R., Tingley, D., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Reich, J. (2018). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Working paper.
+Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2018). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Working paper.
 
 Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education](http://www.mikeyeomans.info/papers/planning.pdf). Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
 Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016) [Forecasting Student Achievement in MOOCs with Natural Language Processing](http://www.mikeyeomans.info/papers/utility_value.pdf). Proceedings of the Sixth International Conference on Learning Analytics  & Knowledge, 383-387. ACM.
-
-Frisancho, V., Karlan, D., Mullainathan, S., Valdivia, M.  & Yeomans, M. [Conditional Cash Transfers and Commitment Savings Accounts in the Dominican Republic](http://www.poverty-action.org/study/conditional-cash-transfers-and-commitment-savings-accounts-dominican-republic). In Progress.
 
 ***
 
