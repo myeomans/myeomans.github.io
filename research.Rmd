@@ -11,6 +11,10 @@ output:
 
 ## Decision-Making in Conversation
 
+Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2019). [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Under Review.
+
+Yeomans, M. & Brooks, A.W. (2019). [Topic Selection in Conversation](http://www.mikeyeomans.info/papers/topic_selection.pdf). Under Review.
+
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, in press.
 
 Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf). International Journal of Artificial Intelligence in Education, 28(4), 553-589.
@@ -21,17 +25,15 @@ Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't 
 
 ***
 
-## Psychology of Recommender Systems
+## Social Learning at Scale
+
+Yeomans, M. [Concreteness, Concretely](http://www.mikeyeomans.info/papers/concreteness.pdf). Working Paper.
+
+Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2019). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Working paper.
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, in press.
 
 Yeomans, M. (2019). [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf). Journal of Consumer Psychology, 29(1), 22-38.
-
-***
-
-## Natural Language Plan-Making in Goal Pursuit
-
-Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2018). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Working paper.
 
 Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education](http://www.mikeyeomans.info/papers/planning.pdf). Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
