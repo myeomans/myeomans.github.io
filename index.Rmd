@@ -9,7 +9,7 @@
 <br/>
 <div style="margin-left: 10px">
 
-I am currently a post-doctoral fellow at Harvard Business School in the Negotations, Organzations and Markets unit. In my research, I use natural language processing to study decision-making in conversation, to improve the ways that people get along, and learn from one another.
+I am currently a post-doctoral fellow at Harvard Business School in the Negotations, Organzations and Markets unit. In my research, I use natural language processing to study decision-making in conversation, to improve the ways that people get along and learn from one another.
 
 </div>
 ***
