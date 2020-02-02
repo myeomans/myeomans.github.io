@@ -11,7 +11,7 @@ output:
 
 ## Decision-Making in Conversation
 
-Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2012). [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, in press.
+Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2012). [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, invited revisions.
 
 Yeomans, M. & Brooks, A.W. (2019). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Under Review.
 
