@@ -11,9 +11,9 @@ output:
 
 ## Decision-Making in Conversation
 
-Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2012). [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, invited revisions.
+Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Revise and Resubmit.
 
-Yeomans, M. & Brooks, A.W. (2019). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Under Review.
+Yeomans, M. & Brooks, A.W. (2020). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Under Review.
 
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, 65(12), 5449-5956.
 
@@ -29,25 +29,25 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ## Social Learning at Scale
 
-Yeomans, M. [Concreteness, Concretely](http://www.mikeyeomans.info/papers/concreteness.pdf). Under Review.
+Yeomans, M. (2020). [Concreteness, Concretely](http://www.mikeyeomans.info/papers/concreteness.pdf). Revise and Resubmit.
 
-Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2019). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Revise and Resubmit.
+Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2020). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Revise and Resubmit.
 
-Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
+Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. (2019). [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
 
 Yeomans, M. (2019). [Some Hedonic Consequences of Perspective-Taking in Word of Mouth](http://www.mikeyeomans.info/papers/Advice_Supply.pdf). Journal of Consumer Psychology, 29(1), 22-38.
 
 Yeomans, M.,Reich, J. (2017). [Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education](http://www.mikeyeomans.info/papers/planning.pdf). Proceedings of the Seventh International Conference on Learning Analytics  & Knowledge, 464-473. ACM.
 
-Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016) [Forecasting Student Achievement in MOOCs with Natural Language Processing](http://www.mikeyeomans.info/papers/utility_value.pdf). Proceedings of the Sixth International Conference on Learning Analytics  & Knowledge, 383-387. ACM.
+Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016). [Forecasting Student Achievement in MOOCs with Natural Language Processing](http://www.mikeyeomans.info/papers/utility_value.pdf). Proceedings of the Sixth International Conference on Learning Analytics  & Knowledge, 383-387. ACM.
 
 ***
 
 ## Field Experiments in Pro-Social Behaviour
 
-Yeomans, M.  & Al-Ubaydli, O. (2018) [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
+Yeomans, M.  & Al-Ubaydli, O. (2018). [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
 
-Al-Ubaydli, O. & Yeomans, M. (2016) [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](http://www.mikeyeomans.info/papers/Identifiability_Effect.pdf). Journal of Behavioral and Experimental Economics, 66, 96-103.
+Al-Ubaydli, O. & Yeomans, M. (2016). [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](http://www.mikeyeomans.info/papers/Identifiability_Effect.pdf). Journal of Behavioral and Experimental Economics, 66, 96-103.
 
 Yeomans, M. & Herberich, D. (2014). [An experimental test of the effect of negative social norms on energy-efficient investments](http://www.mikeyeomans.info/papers/Tire_Pressure_Neglect.pdf). Journal of Economic Behavior & Organization, 108, 187-197.
 

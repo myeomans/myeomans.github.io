@@ -9,7 +9,7 @@
 <br/>
 <div style="margin-left: 5px">
 
-In my research, I use natural language processing to study decision-making in conversation. I am currently a post-doctoral fellow at Harvard Business School in the Negotations, Organzations and Markets unit. In 2020, I will be an Assistant Professor at Imperial College Buisness School.
+In my research, I use natural language processing to study decision-making in conversation. I am currently a post-doctoral fellow at Harvard Business School in the Negotations, Organzations and Markets unit. In 2020, I will be an Assistant Professor at Imperial College Business School.
 
 </div>
 ***
