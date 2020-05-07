@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>research.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -73,9 +73,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -89,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -99,6 +96,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -114,7 +114,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -134,6 +133,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,47 +191,66 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
-
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -209,6 +264,12 @@ $(document).ready(function ()  {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -244,8 +305,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -254,6 +313,16 @@ div.tocify {
 
 
 </style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row-fluid">
@@ -339,8 +408,8 @@ div.tocify {
 <hr />
 <div id="decision-making-in-conversation" class="section level2">
 <h2>Decision-Making in Conversation</h2>
-<p>Yeomans, M., Minson, J., Collins, H., Chen, F. &amp; Gino, F. (2020) <a href="http://www.mikeyeomans.info/papers/receptiveness.pdf">Conversational Receptiveness: Improving Engagement With Opposing Views</a>. Revise and Resubmit.</p>
-<p>Yeomans, M. &amp; Brooks, A.W. (2020). <a href="http://www.mikeyeomans.info/papers/topic_selection.pdf">Topic Preference Detection: A Conversational Approach to Perspective-Taking</a>. Under Review.</p>
+<p>Yeomans, M. &amp; Brooks, A.W. (2020). <a href="http://www.mikeyeomans.info/papers/topic_selection.pdf">Topic Preference Detection: A Conversational Approach to Perspective-Taking</a>. Revise and Resubmit.</p>
+<p>Yeomans, M., Minson, J., Collins, H., Chen, F. &amp; Gino, F. (2020) <a href="http://www.mikeyeomans.info/papers/receptiveness.pdf">Conversational Receptiveness: Improving Engagement With Opposing Views</a>. Organizational Behavior and Human Decision Processes, In press.</p>
 <p>Jeong, M., Minson, J., Yeomans, M. &amp; Gino, F. (2019). <a href="http://www.mikeyeomans.info/papers/communicating_warmth.pdf">Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive</a>. Management Science, 65(12), 5449-5956.</p>
 <p>Yeomans, M., Reich, J. Stewart, B., Kindel, A. &amp; Tingley, D. (2018). <a href="http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf">The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses</a>. International Journal of Artificial Intelligence in Education, 28(4), 553-589.</p>
 <p>Yeomans, M., Kantor, A. &amp; Tingley, D. (2018). <a href="http://www.mikeyeomans.info/papers/Rpoliteness.pdf">Detecting Politeness in Natural Language</a>. The R Journal, 10(2), 489-502. <a href="https://cran.r-project.org/package=politeness">R Package</a></p>
@@ -351,7 +420,7 @@ div.tocify {
 <div id="social-learning-at-scale" class="section level2">
 <h2>Social Learning at Scale</h2>
 <p>Yeomans, M. (2020). <a href="http://www.mikeyeomans.info/papers/concreteness.pdf">Concreteness, Concretely</a>. Revise and Resubmit.</p>
-<p>Yeomans, M., Kizilcec, R., Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. &amp; Tingley, D. (2020). <a href="http://www.mikeyeomans.info/papers/earlyinterventions.pdf">Early Interventions in Online Education</a>. Revise and Resubmit.</p>
+<p>Kizilcec, R.^, Reich, J.^, Yeomans, M.^, Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. &amp; Tingley, D. (2020). <a href="http://www.mikeyeomans.info/papers/earlyinterventions.pdf">Early Interventions in Online Education</a>. Proceedings of the National Academy of Sciences, in press.</p>
 <p>Yeomans, M., Shah, A., Mullainathan, S. &amp; Kleinberg, J. (2019). <a href="http://www.mikeyeomans.info/papers/Making_Sense.pdf">Making Sense of Recommendations</a>. Journal of Behavioral Decision Making, 32(4), 403-414.</p>
 <p>Yeomans, M. (2019). <a href="http://www.mikeyeomans.info/papers/Advice_Supply.pdf">Some Hedonic Consequences of Perspective-Taking in Word of Mouth</a>. Journal of Consumer Psychology, 29(1), 22-38.</p>
 <p>Yeomans, M.,Reich, J. (2017). <a href="http://www.mikeyeomans.info/papers/planning.pdf">Planning to Learn: Planning Prompts Encourage and Forecast Goal Pursuit in Online Education</a>. Proceedings of the Seventh International Conference on Learning Analytics &amp; Knowledge, 464-473. ACM.</p>
@@ -384,6 +453,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->

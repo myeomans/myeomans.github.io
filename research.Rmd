@@ -11,9 +11,9 @@ output:
 
 ## Decision-Making in Conversation
 
-Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Revise and Resubmit.
+Yeomans, M. & Brooks, A.W. (2020). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
 
-Yeomans, M. & Brooks, A.W. (2020). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Under Review.
+Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, In press.
 
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, 65(12), 5449-5956.
 
@@ -31,7 +31,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 Yeomans, M. (2020). [Concreteness, Concretely](http://www.mikeyeomans.info/papers/concreteness.pdf). Revise and Resubmit.
 
-Yeomans, M., Kizilcec, R.,  Reich, J., Lopez, G., Rosen, Y., Turkay, S., Williams, J. & Tingley, D. (2020). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Revise and Resubmit.
+Kizilcec, R.^,  Reich, J.^, Yeomans, M.^, Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, in press.
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. (2019). [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
 
