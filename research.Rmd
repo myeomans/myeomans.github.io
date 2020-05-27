@@ -31,7 +31,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 Yeomans, M. (2020). [Concreteness, Concretely](http://www.mikeyeomans.info/papers/concreteness.pdf). Revise and Resubmit.
 
-Kizilcec, R.^,  Reich, J.^, Yeomans, M.^, Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Early Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, in press.
+Kizilcec, R.^,  Reich, J.^, Yeomans, M.^, Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Educationn](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, in press. [^ co-equal first authorship]
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. (2019). [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
 
