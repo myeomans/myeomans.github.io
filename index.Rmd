@@ -9,7 +9,7 @@
 <br/>
 <div style="margin-left: 5px">
 
-In my research, I use natural language processing to study decision-making in conversation. I am currently an Assistant Professor at Imperial College Business School.
+I am currently an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School. In my research, I use natural language processing to study decision-making in conversation.
 
 </div>
 ***
