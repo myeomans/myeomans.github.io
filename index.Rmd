@@ -3,6 +3,12 @@ title: "Michael Yeomans"
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+```{css, echo=FALSE}
+.wdk_content-pagetitle {
+display:none;
+}
+```
+
 <img src="images/mikeface.jpg" style="width:30%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
 <br/>
 <h4 style="margin-left: 20px">Hello, and welcome!</h4>
