@@ -1,7 +1,6 @@
 name: "Michael Yeomans"
 output_dir: "."
 navbar:
-  title: "Michael Yeomans"
   left:
     - text: "                                   "
       href: research.html
