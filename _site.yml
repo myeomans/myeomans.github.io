@@ -2,7 +2,7 @@ name: "Michael Yeomans"
 output_dir: "."
 navbar:
   left:
-    - text: "                                   "
+    - text: "                                              "
       href: research.html
     - text: "Research"
       href: research.html
