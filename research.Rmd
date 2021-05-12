@@ -17,7 +17,7 @@ display:none;
 
 ## Decision-Making in Conversation
 
-Yeomans, M. & Brooks, A.W. (2020). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+Yeomans, M. & Brooks, A.W. (2021). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
 
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
 
@@ -35,7 +35,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ## Social Learning at Scale
 
-Yeomans, M. (2020). [A Concrete application of Open Science for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Accepted to Organizational Behavior and Human Decision Processes. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
+Yeomans, M. (2021). [A Concrete application of Open Science for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
 Kizilcec, R.^,  Reich, J.^, Yeomans, M.^ (^ co-equal first authors), Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Educationn](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
 
