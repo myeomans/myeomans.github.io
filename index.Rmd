@@ -11,8 +11,6 @@ display:none;
 
 <img src="images/mikeface.jpg" style="width:30%; border:10px solid; margin-right: 0px; margin-left: 40px" align="right">
 <br/>
-<h4 style="margin-left: 20px">Hello, and welcome!</h4>
-<br/>
 <div style="margin-left: 5px">
 
 I am currently an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School. In my research, I use natural language processing to study decision-making in conversation.
