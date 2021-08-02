@@ -29,15 +29,18 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural 
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
-Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to ask: The cumulative benefits of asking follow-up questions. ](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fpspi0000220). Journal of Personality and Social Psychology, 117(6), 1139-1144.
+Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to ask: The cumulative benefits of asking follow-up questions. ](http://www.mikeyeomans.info/papers/cumulative.pdf). Journal of Personality and Social Psychology, 117(6), 1139-1144.
 
 ***
 
 ## Social Learning at Scale
 
+
 Yeomans, M. (2021). [A Concrete application of Open Science for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
-Kizilcec, R.^,  Reich, J.^, Yeomans, M.^ (^ co-equal first authors), Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Educationn](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
+Yeomans, M. (2021). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations, in press.
+
+Kizilcec, R.^,  Reich, J.^, Yeomans, M.^ (^ co-equal first authors), Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. (2019). [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
 
