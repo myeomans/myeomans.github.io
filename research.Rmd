@@ -17,6 +17,8 @@ display:none;
 
 ## Decision-Making in Conversation
 
+Yeomans, M., Schweitzer, M. & Brooks, A.W. (2021). [The Conversational Circumplex: Identifying, Prioritizing, and Pursuing Informational and Relational Motives in Conversation](http://www.mikeyeomans.info/papers/circumplex.pdf). Current Opinion in Psychology, in press.
+
 Yeomans, M. & Brooks, A.W. (2021). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
 
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
@@ -36,7 +38,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 ## Social Learning at Scale
 
 
-Yeomans, M. (2021). [A Concrete application of Open Science for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
+Yeomans, M. (2021). [A Concrete application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
 Yeomans, M. (2021). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations, in press.
 
