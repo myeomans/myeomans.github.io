@@ -6,6 +6,10 @@ navbar:
       href: research.html
     - text: "Research"
       href: research.html
+    - text: "Teaching"
+      href: software.html
+    - text: "Software"
+      href: software.html
     - text: "CV"
       href: http://www.mikeyeomans.info/papers/yeomansCV.pdf
     - text: "OSF"

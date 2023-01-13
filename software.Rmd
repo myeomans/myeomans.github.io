@@ -1,0 +1,32 @@
+---
+output:
+  html_document: 
+    toc: false
+    toc_float: false
+title: "Michael Yeomans"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+```{css, echo=FALSE}
+.wdk_content-pagetitle {
+display:none;
+}
+```
+
+<div style="font-size: 20px">
+I currently have two open-source R software packages available for the public. They can be downloaded directly from CRAN. 
+
+***
+
+The politeness package uses sentence structure to extract stylistic markers from natural language. It relies on the SpaCy grammar parsing library in the background, so please make sure that is installed (using the spacyr R package) to get full use from this package.
+
+Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural Language](http://www.mikeyeomans.info/papers/Rpoliteness.pdf). The R Journal, 10(2), 489-502. [politeness R Package](https://cran.r-project.org/package=politeness)
+
+***
+
+The doc2concrete package creates easy-to-use implementations of three models of concretneess. The associated journal article describes its formation, and also shows how many popular models of linguistic concreteness have little to no validity in domains - like advice and plan-making - where social context can change the meaning of what is said.
+
+
+Yeomans, M. (2021). [A Concrete application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
+
+***

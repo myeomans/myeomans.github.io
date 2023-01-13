@@ -1,8 +1,8 @@
 ---
 output:
   html_document: 
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
 title: "Michael Yeomans"
 ---
 
@@ -15,11 +15,15 @@ display:none;
 
 ***
 
-## Decision-Making in Conversation
+<div style="font-size: 15px">
+Most of my research can be grouped according to the goals that people are pursuing. For a broader review of the conversational goal framework, please see this (short!) review paper:
 
-Yeomans, M., Schweitzer, M. & Brooks, A.W. (2021). [The Conversational Circumplex: Identifying, Prioritizing, and Pursuing Informational and Relational Motives in Conversation](http://www.mikeyeomans.info/papers/circumplex.pdf). Current Opinion in Psychology, in press.
+Yeomans, M., Schweitzer, M. & Brooks, A.W. (2022). [The Conversational Circumplex: Identifying, Prioritizing, and Pursuing Informational and Relational Motives in Conversation](http://www.mikeyeomans.info/papers/circumplex.pdf). Current Opinion in Psychology, 44, 293-302.
 
-Yeomans, M. & Brooks, A.W. (2021). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+***
+<div style="font-size: 12px">
+
+## Conflictual Conversations
 
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
 
@@ -29,18 +33,25 @@ Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic
 
 Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural Language](http://www.mikeyeomans.info/papers/Rpoliteness.pdf). The R Journal, 10(2), 489-502. [politeness R Package](https://cran.r-project.org/package=politeness)
 
+Yeomans, M. (2021). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations, in press.
+
+***
+
+## Relational Conversations
+
+Yeomans, M. & Brooks, A.W. (2022). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+
+Brooks, A.W., Yeomans, M. & Norton, M.I. (2022). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
 Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to ask: The cumulative benefits of asking follow-up questions. ](http://www.mikeyeomans.info/papers/cumulative.pdf). Journal of Personality and Social Psychology, 117(6), 1139-1144.
 
 ***
 
-## Social Learning at Scale
-
+## Educational Conversations
 
 Yeomans, M. (2021). [A Concrete application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
-
-Yeomans, M. (2021). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations, in press.
 
 Kizilcec, R.^,  Reich, J.^, Yeomans, M.^ (^ co-equal first authors), Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
 
@@ -55,6 +66,7 @@ Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016). [Foreca
 ***
 
 ## Field Experiments in Pro-Social Behaviour
+(not about conversation, really, but interesting nonetheless!)
 
 Yeomans, M.  & Al-Ubaydli, O. (2018). [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
 

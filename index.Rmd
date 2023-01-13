@@ -13,7 +13,13 @@ display:none;
 <br/>
 <div style="margin-left: 5px">
 
-I am currently an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School. In my research, I use natural language processing to study decision-making in conversation.
+<div style="font-size: 20px">
+<b>Hello, and welcome to my website! </b>I am currently an Assistant Professor in Strategy and Organisational Behaviour at Imperial College Business School.
+
+<div style="font-size: 20px">
+<b>In my research, I use natural language processing to study decision-making in conversation. </b> Almost anywhere you find people on this earth, you will find us talking to one another, in pursuit of all kinds of goals, including: learning, teaching, co-ordination, self-presentation, connection, or even enjoyment. My work shows how conversation technology can help us understand our conversational decisions, and how to make them better.
+
+If you'd like to start a conversation about one of these goals (including research, teaching, speaking, consulting) please find my contact information through the links above and reach out! 
 
 </div>
 ***
