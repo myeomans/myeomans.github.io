@@ -20,6 +20,10 @@ Most of my research can be grouped according to the goals that people are pursui
 
 Yeomans, M., Schweitzer, M. & Brooks, A.W. (2022). [The Conversational Circumplex: Identifying, Prioritizing, and Pursuing Informational and Relational Motives in Conversation](http://www.mikeyeomans.info/papers/circumplex.pdf). Current Opinion in Psychology, 44, 293-302.
 
+Additionally, my colleagues have written a (longer!) review paper dealing with all the unique challenges of dealing with conversations as data:
+
+Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A Practical Guide to Conversation Research](http://www.mikeyeomans.info/papers/PGCR_yeomans.pdf). Advances in Methods & Practices in Psychological Science, in press.
+
 ***
 <div style="font-size: 12px">
 
