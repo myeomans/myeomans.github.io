@@ -29,6 +29,8 @@ Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A P
 
 ## Conflictual Conversations
 
+Minson, J., Yeomans, M., Collins, H., Dorison, C. (2023) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Invited Revisions.
+
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
 
 Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in Distributive Negotiations is Surprisingly Counter-Productive](http://www.mikeyeomans.info/papers/communicating_warmth.pdf). Management Science, 65(12), 5449-5956.
@@ -43,9 +45,9 @@ Yeomans, M. (2021). [The Straw Man Effect: Partisan Misrepresentation in Natural
 
 ## Relational Conversations
 
-Yeomans, M. & Brooks, A.W. (2022). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+Yeomans, M. & Brooks, A.W. (2022). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
 
-Brooks, A.W., Yeomans, M. & Norton, M.I. (2022). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Revise and Resubmit.
+Brooks, A.W., Yeomans, M. & Norton, M.I. (2022). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
@@ -55,9 +57,11 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ## Educational Conversations
 
-Yeomans, M. (2021). [A Concrete application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
+Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. (2023). Eliciting Advice Instead of Feedback Improves Developmental Input. Invited Revisions.
 
-Kizilcec, R.^,  Reich, J.^, Yeomans, M.^ (^ co-equal first authors), Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
+Yeomans, M. (2021). [A Concrete Application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
+
+Kizilcec, R.^,  Reich, J.^, Yeomans, M.^, Dann, C., Brunskill, E., Lopez, G., Turkay, S., Williams, J. & Tingley, D. (2020). [Scaling Up Behavioral Science Interventions in Online Education](http://www.mikeyeomans.info/papers/earlyinterventions.pdf). Proceedings of the National Academy of Sciences, 117(26), 14900-14905
 
 Yeomans, M., Shah, A., Mullainathan, S.  & Kleinberg, J. (2019). [Making Sense of Recommendations](http://www.mikeyeomans.info/papers/Making_Sense.pdf). Journal of Behavioral Decision Making, 32(4), 403-414.
 
