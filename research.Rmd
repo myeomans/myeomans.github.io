@@ -27,11 +27,13 @@ Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A P
 ***
 <div style="font-size: 12px">
 
-## Conversations about Conflict
+## How can we manage disagreement constructively?
 
 Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. (2024). A Natural Language Processing Model for Conflict Expression in Conversation. Under Review
 
 Minson, J., Yeomans, M., Collins, H., Dorison, C. (2024) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Journal of Personality and Social Psychology, in press.
+
+Yeomans, M. (2022). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations,  25(7), 1905-1924.
 
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
 
@@ -40,8 +42,6 @@ Jeong, M., Minson, J., Yeomans, M. & Gino, F. (2019). [Communicating Warmth in D
 Yeomans, M., Reich, J. Stewart, B., Kindel, A.  & Tingley, D. (2018). [The Civic Mission of MOOCs: Computational Measures of Engagement Across Differences in Online Courses](http://www.mikeyeomans.info/papers/EngagementAcrossDifference.pdf). International Journal of Artificial Intelligence in Education, 28(4), 553-589.
 
 Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural Language](http://www.mikeyeomans.info/papers/Rpoliteness.pdf). The R Journal, 10(2), 489-502. [politeness R Package](https://cran.r-project.org/package=politeness)
-
-Yeomans, M. (2022). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations,  25(7), 1905-1924.
 
 ***
 
@@ -57,7 +57,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ***
 
-## How can we learn better from others?
+## How can we learn more from others?
 
 Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
 
