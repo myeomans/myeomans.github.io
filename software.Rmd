@@ -30,3 +30,9 @@ The doc2concrete package creates easy-to-use implementations of three models of 
 Yeomans, M. (2021). [A Concrete application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
 ***
+
+The DICE package contains tools developed to measure two independent dimensions of conflict expressions - informational directness and relational intensity. The associated journal article describes its formation, including benchmarks of other pre-trained models of conflict.
+
+Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. (2024). [A Natural Language Processing Model for Conflict Expression in Conversation](https://github.com/myeomans/DICE). Under Review
+
+***

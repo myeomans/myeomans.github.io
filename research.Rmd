@@ -27,7 +27,9 @@ Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A P
 ***
 <div style="font-size: 12px">
 
-## Conflictual Conversations
+## Conversations about Conflict
+
+Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. (2024). A Natural Language Processing Model for Conflict Expression in Conversation. Under Review
 
 Minson, J., Yeomans, M., Collins, H., Dorison, C. (2024) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Journal of Personality and Social Psychology, in press.
 
@@ -43,7 +45,7 @@ Yeomans, M. (2022). [The Straw Man Effect: Partisan Misrepresentation in Natural
 
 ***
 
-## Relational Conversations
+## How can we build better relationships?
 
 Yeomans, M. & Brooks, A.W. (2024). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
 
@@ -55,7 +57,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ***
 
-## Educational Conversations
+## How can we learn better from others?
 
 Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
 
