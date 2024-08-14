@@ -29,7 +29,7 @@ Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A P
 
 ## How can we manage disagreement constructively?
 
-Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. (2024). A Natural Language Processing Model for Conflict Expression in Conversation. Under Review
+Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expression in Conversation using Humans and Algorithms. Under Review
 
 Minson, J., Yeomans, M., Collins, H., Dorison, C. (2024) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Journal of Personality and Social Psychology, in press.
 
@@ -47,9 +47,9 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural 
 
 ## How can we build better relationships?
 
-Yeomans, M. & Brooks, A.W. (2024). [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
+Yeomans, M. & Brooks, A.W. [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
 
-Brooks, A.W. & Yeomans, M.(2024). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
+Brooks, A.W. & Yeomans, M.(2024). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Journal of Experimental Psychology: General, in press.
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
@@ -61,7 +61,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
 
-Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. (2024). [Eliciting Advice Instead of Feedback Improves Developmental Input](http://www.mikeyeomans.info/papers/concreteness.pdf). Invited Revisions.
+Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. [Eliciting Advice Instead of Feedback Improves Developmental Input](http://www.mikeyeomans.info/papers/concreteness.pdf). Invited Revisions.
 
 Yeomans, M. (2021). [A Concrete Application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
