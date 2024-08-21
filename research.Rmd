@@ -16,7 +16,7 @@ display:none;
 ***
 
 <div style="font-size: 15px">
-My research studies the choices people make in conversation, in the context of the the goals they are pursuing. For a discussion of the conversational goal framework, please see this (short!) review paper:
+Most of my research studies conversations - the choices people make, and the goals they pursue. For a discussion of the conversational goal framework, please see this (short!) review paper:
 
 Yeomans, M., Schweitzer, M. & Brooks, A.W. (2022). [The Conversational Circumplex: Identifying, Prioritizing, and Pursuing Informational and Relational Motives in Conversation](http://www.mikeyeomans.info/papers/circumplex.pdf). Current Opinion in Psychology, 44, 293-302.
 
@@ -25,11 +25,16 @@ Additionally, my colleagues and I have written a (longer!) review paper dealing 
 Yeomans, M., Boland, K.F., Collins, H., Abi-Esber, N. & Brooks, A.W. (2023) [A Practical Guide to Conversation Research](http://www.mikeyeomans.info/papers/PGCR_yeomans.pdf). Advances in Methods & Practices in Psychological Science, in press.
 
 ***
+
+My empirical papers each explore an aspect of various kinds of high-stakes conversations, and the implications for leaders, learners, partners, colleagues, community members, and more. (a ^ denotes co-equal first authorship)
+
 <div style="font-size: 12px">
 
-## How can we manage disagreement constructively?
+## How can we foster constructive disagreement?
 
-Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expression in Conversation using Humans and Algorithms. Under Review
+Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expression in Conversation using Humans and Algorithms. Under Review.  [DICE-M R Package](https://cran.r-project.org/package=DICEM)
+
+Bevis, B., Schroeder, J. & Yeomans, M.. Spoken Conversation Facilitates Constructive Disagreement. Under Review.
 
 Minson, J., Yeomans, M., Collins, H., Dorison, C. (2024) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Journal of Personality and Social Psychology, in press.
 
@@ -59,9 +64,9 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ## How can we learn more from others?
 
-Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
-
 Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. [Eliciting Advice Instead of Feedback Improves Developmental Input](http://www.mikeyeomans.info/papers/concreteness.pdf). Invited Revisions.
+
+Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
 
 Yeomans, M. (2021). [A Concrete Application of Construct Construction for Natural Language Processing](http://www.mikeyeomans.info/papers/concreteness.pdf). Organizational Behavior and Human Decision Processes, 162, 81-94. [doc2concrete R package](https://cran.r-project.org/package=doc2concrete)
 
@@ -78,7 +83,7 @@ Robinson, C., Yeomans, M.,Reich, J., Gelbach, H.  & Huileman, C. (2016). [Foreca
 ***
 
 ## Field Experiments in Pro-Social Behaviour
-(Not about conversation, but interesting nonetheless)
+(My earliest work was not about conversation, but interesting nonetheless)
 
 Yeomans, M.  & Al-Ubaydli, O. (2018). [How Does Fundraising Affect Charitable Giving? Evidence from a field experiment with volunteers](http://www.mikeyeomans.info/papers/Collateral_Effects_of_Fundraising.pdf). Journal of Economic Psychology, 64, 57-72.
 

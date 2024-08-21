@@ -14,7 +14,7 @@ display:none;
 ```
 
 <div style="font-size: 20px">
-I currently have two open-source R software packages available for the public (and third model in development, available for testing). They can be downloaded directly from CRAN. 
+I currently have three open-source R software packages available for the public. They can be downloaded directly from CRAN. 
 
 ***
 
@@ -31,8 +31,8 @@ Yeomans, M. (2021). [A Concrete application of Construct Construction for Natura
 
 ***
 
-The DICE package contains tools developed to measure two independent dimensions of conflict expressions - informational directness and relational intensity. The associated manuscript describes the formation of the NLP tool (the DICE-M), including benchmarks against other pre-trained models of conflict, and a corresponding human annotation guide (the DICE-H).
+The DICEM package contains tools developed to measure two independent dimensions of conflict expressions - informational directness and relational intensity. The associated manuscript describes the formation of the NLP tool (the DICE-M), including benchmarks against other pre-trained models of conflict, and a corresponding human annotation guide (the DICE-H). Our work shows these dimensions predict conflict escalation above and beyond previous benchmarks.
 
-Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. (2024). [A Natural Language Processing Model for Conflict Expression in Conversation](https://github.com/myeomans/DICE). Under Review
+Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expression in Conversation using Humans and Algorithms. Under Review.  [DICE-M R Package](https://cran.r-project.org/package=DICEM)
 
 ***
