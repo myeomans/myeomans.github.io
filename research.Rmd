@@ -36,8 +36,6 @@ Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expressi
 
 Bevis, B., Schroeder, J. & Yeomans, M.. Spoken Conversation Facilitates Constructive Disagreement. Under Review.
 
-Minson, J., Yeomans, M., Collins, H., Dorison, C. (2024) [Conversational Receptiveness Transmits Between Parties And Brdges Ideological Conflict.](http://www.mikeyeomans.info/papers/receptiveness.pdf). Journal of Personality and Social Psychology, in press.
-
 Yeomans, M. (2022). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations,  25(7), 1905-1924.
 
 Yeomans, M., Minson, J., Collins, H., Chen, F. & Gino, F. (2020) [Conversational Receptiveness: Improving Engagement With Opposing Views](http://www.mikeyeomans.info/papers/receptiveness.pdf). Organizational Behavior and Human Decision Processes, 160, 131-148.
