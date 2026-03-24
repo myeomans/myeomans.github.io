@@ -32,9 +32,7 @@ My empirical papers each explore an aspect of various kinds of high-stakes conve
 
 ## How can we foster constructive disagreement?
 
-Yeomans, M., Bendersky, C., Weingart, L.R. & Kim, Y. Measuring Conflict Expression in Conversation using Humans and Algorithms. Under Review.  [DICE-M R Package](https://cran.r-project.org/package=DICEM)
-
-Bevis, B., Schroeder, J. & Yeomans, M.. Spoken Conversation Facilitates Constructive Disagreement. Under Review.
+Bevis, B., Schroeder, J. & Yeomans, M.. Spoken Conversation Facilitates Constructive Disagreement. (2026) Nature Communications.
 
 Yeomans, M. (2022). [The Straw Man Effect: Partisan Misrepresentation in Natural Language ](http://www.mikeyeomans.info/papers/straw_men.pdf). Group Processes & Intergroup Relations,  25(7), 1905-1924.
 
@@ -52,7 +50,7 @@ Yeomans, M., Kantor, A.  & Tingley, D. (2018). [Detecting Politeness in Natural 
 
 Yeomans, M. & Brooks, A.W. [Topic Preference Detection: A Conversational Approach to Perspective-Taking](http://www.mikeyeomans.info/papers/topic_selection.pdf). Invited Revisions.
 
-Brooks, A.W. & Yeomans, M.(2024). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Journal of Experimental Psychology: General, in press.
+Brooks, A.W. & Yeomans, M.(2024). [Boomerasking: Asking and then answering your own question](http://www.mikeyeomans.info/papers/topic_selection.pdf). Journal of Experimental Psychology: General, 154(3), 864–893.
 
 Huang, K., Yeomans, M., Brooks, A.W., Minson, J. & Gino, F. (2017). [It doesn't hurt to ask: Question-Asking increases liking](http://www.mikeyeomans.info/papers/question_asking.pdf). Journal of Personality and Social Psychology, 113(3), 430-452.
 
@@ -62,7 +60,7 @@ Yeomans, M., Brooks, A.W., Huang, K., Minson, J. & Gino, F. (2019). [It helps to
 
 ## How can we learn more from others?
 
-Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. (2025). [Eliciting Advice Instead of Feedback Improves Developmental Input](http://www.mikeyeomans.info/papers/AvF.pdf). Management Science.
+Blunden^, H., Kristal^, A., Whillans, A., Yoon, J., Burd, H., Bremner, G. & Yeomans, M. (2025). [Eliciting Advice Instead of Feedback Improves Developmental Input](http://www.mikeyeomans.info/papers/AvF.pdf). Management Science, 72(3). 
 
 Cho, J. Y., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024, March). [Which Planning Tactics Predict Online Course Completion?](http://www.mikeyeomans.info/papers/plan_tactics.pdf). In Proceedings of the 14th Learning Analytics and Knowledge Conference, 360-370.
 
