@@ -17,7 +17,7 @@ display:none;
 <b>Hello, and welcome! </b>I am currently an Associate Professor of Behavioural Science at Imperial Business School.
 
 <div style="font-size: 20px">
-<b>In my work I am dedicated to the science and practice of conversation.</b> Every group of people is connected by conversation, and the things we choose to say can have profound impacts on our relationships in business, and in life. When things go right, we learn, we co-ordinate, we connect. And yet, we still find ourselves making predictable, preventable mistakes - leaders, partners, colleagues, humans all.
+<b>In my work I am dedicated to the science and practice of conversation.</b> Every group of people is connected by conversation, and the things we choose to say can have profound impacts on our relationships in business, and in life. When things go right, we learn, we co-ordinate, we connect. And yet, we still find ourselves making predictable, preventable mistakes - as leaders, colleagues, partners, neighbours, humans...
 
 For over a decade, I have been a pioneer in the application of language technology to understand and improve decisions in conversation. In my research, teaching, and consulting I help people and organisations with the conversations they are having. If you would like to learn more or work together, please reach out!
 
